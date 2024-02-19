@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "282198273530",
+    "project_id": "mindmark-29a52",
+    "storage_bucket": "mindmark-29a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282198273530:android:e53aae62b235b0c3938843",
+        "android_client_info": {
+          "package_name": "com.example.mindmark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282198273530-jsfgpp1et83oc8k4bvmqvls23gnbbm7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mindmark",
+            "certificate_hash": "ae3f632926299108e1034f4026c1ffe99ea5046e"
+          }
+        },
+        {
+          "client_id": "282198273530-ifscd9uafu9bqdusdt9rbtltg56unhvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKiQfe4GO1g12Fje4TC8rPNwYg-tjr1zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282198273530-ifscd9uafu9bqdusdt9rbtltg56unhvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
